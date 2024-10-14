@@ -12,5 +12,6 @@
 - Francisco Javier Zaldaña Álvarez - ZA210751
 
 ## Enlaces a:
-- video demostrativo: 
+- video demostrativo: https://youtu.be/7txX7BmV2SQ
 - Aplicación en Expo: https://snack.expo.dev/@franckalv/learning-resources-app
+- Documento: 
