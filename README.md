@@ -14,4 +14,4 @@
 ## Enlaces a:
 - video demostrativo: https://youtu.be/7txX7BmV2SQ
 - Aplicación en Expo: https://snack.expo.dev/@franckalv/learning-resources-app
-- Documento: 
+- Documento: https://github.com/Franckalv/learning-resources-project/blob/main/Doc-desafio-pr%C3%A1ctico-3.pdf
